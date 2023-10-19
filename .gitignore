@@ -70,3 +70,155 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/FN.zip
+/FN/Fruit Ninja.exe
+/FN/Fruit Ninja_BurstDebugInformation_DoNotShip/Data/Plugins/x86_64/lib_burst_generated.txt
+/FN/Fruit Ninja_Data/Managed/Assembly-CSharp.dll
+/FN/Fruit Ninja_Data/Managed/Mono.Security.dll
+/FN/Fruit Ninja_Data/Managed/System.ComponentModel.Composition.dll
+/FN/Fruit Ninja_Data/Managed/System.Configuration.dll
+/FN/Fruit Ninja_Data/Managed/System.Core.dll
+/FN/Fruit Ninja_Data/Managed/System.Data.DataSetExtensions.dll
+/FN/Fruit Ninja_Data/Managed/System.Data.dll
+/FN/Fruit Ninja_Data/Managed/System.Drawing.dll
+/FN/Fruit Ninja_Data/Managed/System.EnterpriseServices.dll
+/FN/Fruit Ninja_Data/Managed/System.IO.Compression.FileSystem.dll
+/FN/Fruit Ninja_Data/Managed/System.IO.Compression.dll
+/FN/Fruit Ninja_Data/Managed/System.Net.Http.dll
+/FN/Fruit Ninja_Data/Managed/System.Numerics.dll
+/FN/Fruit Ninja_Data/Managed/System.Runtime.Serialization.dll
+/FN/Fruit Ninja_Data/Managed/System.Runtime.dll
+/FN/Fruit Ninja_Data/Managed/System.Security.dll
+/FN/Fruit Ninja_Data/Managed/System.ServiceModel.Internals.dll
+/FN/Fruit Ninja_Data/Managed/System.Transactions.dll
+/FN/Fruit Ninja_Data/Managed/System.Xml.Linq.dll
+/FN/Fruit Ninja_Data/Managed/System.Xml.dll
+/FN/Fruit Ninja_Data/Managed/System.dll
+/FN/Fruit Ninja_Data/Managed/Unity.Burst.Unsafe.dll
+/FN/Fruit Ninja_Data/Managed/Unity.Burst.dll
+/FN/Fruit Ninja_Data/Managed/Unity.Mathematics.dll
+/FN/Fruit Ninja_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/FN/Fruit Ninja_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll
+/FN/Fruit Ninja_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll
+/FN/Fruit Ninja_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/FN/Fruit Ninja_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll
+/FN/Fruit Ninja_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll
+/FN/Fruit Ninja_Data/Managed/Unity.ScriptableBuildPipeline.dll
+/FN/Fruit Ninja_Data/Managed/Unity.TextMeshPro.dll
+/FN/Fruit Ninja_Data/Managed/Unity.Timeline.dll
+/FN/Fruit Ninja_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll
+/FN/Fruit Ninja_Data/Managed/Unity.VisualScripting.Core.dll
+/FN/Fruit Ninja_Data/Managed/Unity.VisualScripting.Flow.dll
+/FN/Fruit Ninja_Data/Managed/Unity.VisualScripting.State.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.AIModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ARModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.AccessibilityModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.AndroidJNIModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.AnimationModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.AssetBundleModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.AudioModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ClothModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ClusterInputModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ClusterRendererModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.CoreModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.CrashReportingModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.DSPGraphModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.DirectorModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.GIModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.GameCenterModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.GridModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.HotReloadModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.IMGUIModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ImageConversionModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.InputLegacyModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.InputModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.JSONSerializeModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.LocalizationModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.NVIDIAModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ParticleSystemModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.Physics2DModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.PhysicsModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ProfilerModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.SharedInternalsModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.SpriteMaskModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.SpriteShapeModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.StreamingModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.SubstanceModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.SubsystemsModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TLSModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TerrainModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TextRenderingModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.TilemapModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UI.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UIElementsModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UIElementsNativeModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UIModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UNETModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UmbraModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityConnectModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityCurlModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.VFXModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.VRModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.VehiclesModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.VideoModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.WindModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.XRModule.dll
+/FN/Fruit Ninja_Data/Managed/UnityEngine.dll
+/FN/Fruit Ninja_Data/Managed/mscorlib.dll
+/FN/Fruit Ninja_Data/Managed/netstandard.dll
+/FN/Fruit Ninja_Data/Plugins/x86_64/lib_burst_generated.dll
+/FN/Fruit Ninja_Data/Resources/unity default resources
+/FN/Fruit Ninja_Data/Resources/unity_builtin_extra
+/FN/Fruit Ninja_Data/RuntimeInitializeOnLoads.json
+/FN/Fruit Ninja_Data/ScriptingAssemblies.json
+/FN/Fruit Ninja_Data/app.info
+/FN/Fruit Ninja_Data/boot.config
+/FN/Fruit Ninja_Data/globalgamemanagers
+/FN/Fruit Ninja_Data/globalgamemanagers.assets
+/FN/Fruit Ninja_Data/level0
+/FN/Fruit Ninja_Data/level0.resS
+/FN/Fruit Ninja_Data/level1
+/FN/Fruit Ninja_Data/level1.resS
+/FN/Fruit Ninja_Data/resources.assets
+/FN/Fruit Ninja_Data/resources.assets.resS
+/FN/Fruit Ninja_Data/sharedassets0.assets
+/FN/Fruit Ninja_Data/sharedassets0.assets.resS
+/FN/Fruit Ninja_Data/sharedassets1.assets
+/FN/Fruit Ninja_Data/sharedassets1.assets.resS
+/FN/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+/FN/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+/FN/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+/FN/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+/FN/MonoBleedingEdge/etc/mono/2.0/machine.config
+/FN/MonoBleedingEdge/etc/mono/2.0/settings.map
+/FN/MonoBleedingEdge/etc/mono/2.0/web.config
+/FN/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+/FN/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+/FN/MonoBleedingEdge/etc/mono/4.0/machine.config
+/FN/MonoBleedingEdge/etc/mono/4.0/settings.map
+/FN/MonoBleedingEdge/etc/mono/4.0/web.config
+/FN/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+/FN/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+/FN/MonoBleedingEdge/etc/mono/4.5/machine.config
+/FN/MonoBleedingEdge/etc/mono/4.5/settings.map
+/FN/MonoBleedingEdge/etc/mono/4.5/web.config
+/FN/MonoBleedingEdge/etc/mono/browscap.ini
+/FN/MonoBleedingEdge/etc/mono/config
+/FN/MonoBleedingEdge/etc/mono/mconfig/config.xml
+/FN/UnityCrashHandler64.exe
+/FN/UnityPlayer.dll
